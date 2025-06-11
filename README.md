@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Prince Imbabazi
 
-<!--
-**CrUx08/CrUx08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate software engineer on a mission to build meaningful tech from the core.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a full-stack developer with a growing love for clean design, powerful backends, and impact-driven solutions. I'm currently building **Crux** — a remote working app designed to simplify collaboration.
+
+> 💬 I believe in learning by building — and I'm always experimenting with projects that combine utility, simplicity, and speed.
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, JavaScript, SQL, HTML/CSS, C++
+- 🧰 Frameworks: Django, Tailwind CSS
+- 🌐 Tools: Git, GitHub, VS Code, Figma, Blender, Bash
+- 📚 Learning: CS50, ALX Software Engineering, Coursera
+
+---
+
+## 🌱 Current Focus
+
+- 🎯 Improving backend skills with Django and PostgreSQL
+- 🧪 Building MVPs for startup ideas like **Crux**
+- 📦 Contributing to open-source when possible
+
+---
+
+## 🌍 Connect With Me
+
+- ✉️ Email: princeiu250@gmail.com  
+- 🐦 Twitter: [@prince__dev](https://twitter.com/prince__dev)  
+- 💼 LinkedIn: *Coming soon* 😉  
+- 💡 Projects: [Check out my repositories](https://github.com/PrinceImbabazi)
+
+---
+
+> ⚙️ “Do things from the core.” — That’s how I code, design, and think.
+
