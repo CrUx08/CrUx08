@@ -33,7 +33,7 @@ I'm a full-stack developer with a growing love for clean design, powerful backen
 
 - ✉️ Email: princeiu250@gmail.com  
 - 🐦 Twitter: [@__imbabazi08](https://twitter.com/__imbabazi08)  
-- 💼 LinkedIn: [@princeiu](www.linkedin.com/in/princeiu)😉  
+- 💼 LinkedIn: [linkedin.com/in/princeiu](https://www.linkedin.com/in/princeiu/)  😉  
 - 💡 Projects: [Check out my repositories](https://github.com/PrinceImbabazi)
 
 ---
