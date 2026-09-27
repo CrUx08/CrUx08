@@ -15,7 +15,7 @@ I'm a full-stack developer with a growing love for clean design, powerful backen
 ## 🛠️ Tech Stack
 
 - 💻 Languages: Python, JavaScript, SQL, HTML/CSS, C++
-- 🧰 Frameworks: Django, Tailwind CSS
+- 🧰 Frameworks: Django 
 - 🌐 Tools: Git, GitHub, VS Code, Figma, Blender, Bash
 - 📚 Learning: CS50, ALX Software Engineering, Coursera
 
@@ -31,8 +31,7 @@ I'm a full-stack developer with a growing love for clean design, powerful backen
 
 ## 🌍 Connect With Me
 
-- ✉️ Email: princeiu250@gmail.com  
-- 🐦 Twitter: [@__imbabazi08](https://twitter.com/__imbabazi08)  
+- ✉️ Email: princeiu250@gmail.com     
 - 💼 LinkedIn: [linkedin.com/in/princeiu](https://www.linkedin.com/in/princeiu/)  😉  
 - 💡 Projects: [Check out my repositories](https://github.com/PrinceImbabazi)
 
